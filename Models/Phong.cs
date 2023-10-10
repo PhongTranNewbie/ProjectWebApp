@@ -11,7 +11,7 @@ namespace Khachsan.Models
             get { return dongia; }
             set 
             {
-                if (value != 100000)
+                if (value >= 100000)
                 {
                     dongia = value;
                 }
