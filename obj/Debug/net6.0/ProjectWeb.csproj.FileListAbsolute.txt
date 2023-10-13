@@ -1,0 +1,8 @@
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.AssemblyReference.cache
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cache
+C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cs
