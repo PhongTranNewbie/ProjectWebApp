@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.AssemblyReference.cache
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
@@ -6,3 +7,12 @@ C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompi
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cache
 C:\Users\Phan Tran Phong\ProjectWeb\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cs
+=======
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cs
+>>>>>>> 2cadc4f5af9b5cd73f130f0025b4c37dbffe28b1
