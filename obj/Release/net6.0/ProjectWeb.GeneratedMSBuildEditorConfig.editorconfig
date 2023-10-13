@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectWeb
 build_property.RootNamespace = ProjectWeb
-build_property.ProjectDir = C:\Users\Acer\Source\Repos\PhongTranNewbie\ProjectWebApp\
+build_property.ProjectDir = D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Acer\Source\Repos\PhongTranNewbie\ProjectWebApp
+build_property.MSBuildProjectDirectory = D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/Home/Index.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/Home/Privacy.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/Shared/Error.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/_ViewImports.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/_ViewStart.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/PhongTranNewbie/ProjectWebApp/Views/Shared/_Layout.cshtml]
+[D:/project_vsc/Khachsan/Khachsan/Models/ProjectWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-azins3730t

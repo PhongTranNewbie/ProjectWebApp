@@ -4,73 +4,72 @@ namespace Khachsan.Models
 {
     public class Phong
     {
+        private string _maphong;
         public string maphong
         {
-            get
-            {
-                return maphong;
-            }
+            get { return _maphong; }
             set
             {
-                if(value.Length < 3)
+                if (value.Length < 3)
                 {
-                    maphong = value;
+                    _maphong = value;
                 }
                 else
                 {
-                    Console.WriteLine("không thể nhập mã phòng trên");
+                    Console.WriteLine("Không thể nhập mã phòng trên.");
                 }
             }
         }
+
         public string maloaiphong { get; set; }
-        public float dongia 
+
+        private float _dongia;
+        public float dongia
         {
-            get { return dongia; }
-            set 
+            get { return _dongia; }
+            set
             {
                 if (value >= 100000)
                 {
-                    dongia = value;
+                    _dongia = value;
                 }
                 else
                 {
-                    Console.WriteLine(" không thể nhập giá tiền trên ");
+                    Console.WriteLine("Không thể nhập giá tiền trên.");
                 }
             }
         }
+
+        private string _matrangthai;
         public string matrangthai
         {
-            get
-            {
-                return matrangthai;
-            }
+            get { return _matrangthai; }
             set
             {
-                if(value.Length < 5)
+                if (value.Length < 5)
                 {
-                    matrangthai = value;
+                    _matrangthai = value;
                 }
                 else
                 {
-                    Console.WriteLine("không thể nhập được mã phòng trên");
+                    Console.WriteLine("Không thể nhập mã trạng thái trên.");
                 }
             }
         }
+
+        private int _soluongkhacho;
         public int soluongkhacho
         {
-            get
-            {
-                return soluongkhacho;
-            }
+            get { return _soluongkhacho; }
             set
             {
-                if(value<=3)
+                if (value <= 3)
                 {
-                    soluongkhacho = value;
+                    _soluongkhacho = value;
                 }
                 else
                 {
-                    Console.WriteLine("không thể nhập số lượng khách ở ");
+                    Console.WriteLine("Không thể nhập số lượng khách ở.");
                 }
             }
         }

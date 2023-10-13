@@ -2,33 +2,28 @@
 {
     public class TrangThai
     {
+        private string _matrangthai;
         public string matrangthai
         {
-            get
-            {
-                return matrangthai;
-            }
+            get { return _matrangthai; }
             set
             {
-                if(value.Length <5 )
+                if (value.Length < 5)
                 {
-                    matrangthai = value;
+                    _matrangthai = value;
                 }
             }
-
         }
+        private string _tentrangthai;
         public string tentrangthai
         {
-            get
-            {
-                return tentrangthai;
-            }
+            get { return _tentrangthai; }
             set
             {
-                if( value.Length < 10 )
+                if (value.Length < 10)
                 {
-                    tentrangthai = value;
-                }    
+                    _tentrangthai = value;
+                }
             }
         }
     }
