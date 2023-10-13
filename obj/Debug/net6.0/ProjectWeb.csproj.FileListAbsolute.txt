@@ -1,0 +1,7 @@
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.AssemblyInfoInputs.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.AssemblyInfo.cs
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.csproj.CoreCompileInputs.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cache
+D:\project_vsc\Khachsan\Khachsan\Models\ProjectWebApp\obj\Debug\net6.0\ProjectWeb.RazorAssemblyInfo.cs
