@@ -1,77 +1,22 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace Khachsan.Models
 {
     public class Phong
     {
-        private string _maphong;
-        public string maphong
-        {
-            get { return _maphong; }
-            set
-            {
-                if (value.Length < 3)
-                {
-                    _maphong = value;
-                }
-                else
-                {
-                    Console.WriteLine("Không thể nhập mã phòng trên.");
-                }
-            }
-        }
+        [StringLength(2, ErrorMessage = "Mã phòng không thể có nhiều hơn 2 ký tự.")]
+        public string maphong { get; set; }
 
         public string maloaiphong { get; set; }
 
-        private float _dongia;
-        public float dongia
-        {
-            get { return _dongia; }
-            set
-            {
-                if (value >= 100000)
-                {
-                    _dongia = value;
-                }
-                else
-                {
-                    Console.WriteLine("Không thể nhập giá tiền trên.");
-                }
-            }
-        }
+        [Range(100000, double.MaxValue, ErrorMessage = "Giá tiền không thể nhỏ hơn 100000.")]
+        public float dongia { get; set; }
 
-        private string _matrangthai;
-        public string matrangthai
-        {
-            get { return _matrangthai; }
-            set
-            {
-                if (value.Length < 5)
-                {
-                    _matrangthai = value;
-                }
-                else
-                {
-                    Console.WriteLine("Không thể nhập mã trạng thái trên.");
-                }
-            }
-        }
+        [StringLength(4, ErrorMessage = "Mã trạng thái không thể có nhiều hơn 4 ký tự.")]
+        public string matrangthai { get; set; }
 
-        private int _soluongkhacho;
-        public int soluongkhacho
-        {
-            get { return _soluongkhacho; }
-            set
-            {
-                if (value <= 3)
-                {
-                    _soluongkhacho = value;
-                }
-                else
-                {
-                    Console.WriteLine("Không thể nhập số lượng khách ở.");
-                }
-            }
-        }
+        [Range(0, 3, ErrorMessage = "Số lượng khách ở không thể lớn hơn 3.")]
+        public int soluongkhacho { get; set; }
     }
 }

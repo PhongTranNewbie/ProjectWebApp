@@ -1,30 +1,14 @@
-﻿namespace Khachsan.Models
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Khachsan.Models
 {
     public class TrangThai
     {
-        private string _matrangthai;
-        public string matrangthai
-        {
-            get { return _matrangthai; }
-            set
-            {
-                if (value.Length < 5)
-                {
-                    _matrangthai = value;
-                }
-            }
-        }
-        private string _tentrangthai;
-        public string tentrangthai
-        {
-            get { return _tentrangthai; }
-            set
-            {
-                if (value.Length < 10)
-                {
-                    _tentrangthai = value;
-                }
-            }
-        }
+        [StringLength(5, ErrorMessage = "Mã trạng thái không thể có nhiều hơn 5 ký tự.")]
+        public string matrangthai { get; set; }
+
+        [StringLength(10, ErrorMessage = "Tên trạng thái không thể có nhiều hơn 10 ký tự.")]
+        public string tentrangthai { get; set; }
     }
 }
