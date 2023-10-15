@@ -17,7 +17,7 @@ namespace ProjectWeb.Models
         public string Email { get; set; }
         [DisplayName("Địa chỉ")]
         public string place { get; set; }
-        public string? id_type_client { get; set; }
+        public string? id_type_client { get; set;}
 
 
     }
