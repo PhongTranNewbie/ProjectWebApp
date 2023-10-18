@@ -28,4 +28,12 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+    public IActionResult _PhieuThue(string MPT, string MKH)
+    {
+        return View();
+    }
+    public IActionResult _CT_PT(string MPT)
+    {
+        return View();
+    }
 }

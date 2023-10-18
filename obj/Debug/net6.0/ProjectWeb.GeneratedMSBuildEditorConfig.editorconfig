@@ -15,12 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\Phan Tran Phong\ProjectWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/CT_PhieuThue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDVF9QaGlldVRodWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/PhieuThue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaGlldVRodWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/_CTPT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQ1RQVC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Phan Tran Phong/ProjectWeb/Views/Home/_PhieuThue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUGhpZXVUaHVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/Phan Tran Phong/ProjectWeb/Views/Shared/Error.cshtml]

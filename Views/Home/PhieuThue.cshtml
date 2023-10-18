@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "PhieuThue";
+}
+
+<h2> Form điền và gởi thông tin!</h2>
+<form asp-action = "_PhieuThue" method="post">
+<div class="form-group      ">
+<label>Ma Phieu Thue:</label>
+<input class="form-control" name="MPT" />
+</div>
+<div class="form-group">
+<label>Ma Khach Hang:</label>
+<input class="form-control" name="MKH" />
+</div>
+<div class="m-1">
+<button class="btn btn-primary" type="submit">Submit</button>
+</div>
+</form>
